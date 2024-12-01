@@ -10,9 +10,9 @@ Invece, adottando un approccio più "bottom-up".
 
 Questo significa
 
-Step 1) Un volontario dalla community condivide il CV che pensi funzioni di più e che gli ha fatto ottenere un colloquio o un lavoro da un'azienda che desiderava
-Step 2) Lo analizziamo insieme e capiamo cosa ha funzionato e quali sono i punti di forza di quel curriculum
-Step 3) Condividiamo questa analisi su questo file in modo tale che queste info siano accessibili da tutti
+* Step 1) Un volontario dalla community condivide il CV che pensi funzioni di più e che gli ha fatto ottenere un colloquio o un lavoro da un'azienda che desiderava
+* Step 2) Lo analizziamo insieme e capiamo cosa ha funzionato e quali sono i punti di forza di quel curriculum
+* Step 3) Condividiamo questa analisi su questo file in modo tale che queste info siano accessibili da tutti
 
 Partiamo!
 
